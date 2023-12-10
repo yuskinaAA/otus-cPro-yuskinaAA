@@ -1,0 +1,8 @@
+C:\Users\Sofi\Documents\Projects\MP\ConsoleApp1\bin\Release\ConsoleApp1.exe.config
+C:\Users\Sofi\Documents\Projects\MP\ConsoleApp1\bin\Release\ConsoleApp1.exe
+C:\Users\Sofi\Documents\Projects\MP\ConsoleApp1\bin\Release\ConsoleApp1.pdb
+C:\Users\Sofi\Documents\Projects\MP\ConsoleApp1\obj\Release\ConsoleGane.csproj.AssemblyReference.cache
+C:\Users\Sofi\Documents\Projects\MP\ConsoleApp1\obj\Release\ConsoleGane.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sofi\Documents\Projects\MP\ConsoleApp1\obj\Release\ConsoleGane.csproj.CoreCompileInputs.cache
+C:\Users\Sofi\Documents\Projects\MP\ConsoleApp1\obj\Release\ConsoleApp1.exe
+C:\Users\Sofi\Documents\Projects\MP\ConsoleApp1\obj\Release\ConsoleApp1.pdb
