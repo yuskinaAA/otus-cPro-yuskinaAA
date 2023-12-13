@@ -43,14 +43,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Imlementations\ConsoleGameGessRandomNumber.cs" />
-    <Compile Include="Imlementations\NumberGuesser.cs" />
-    <Compile Include="Interface\IGame.cs" />
-    <Compile Include="Imlementations\GenerateRandomNumber.cs" />
-    <Compile Include="Interface\IGenerateRandomNumber.cs" />
-    <Compile Include="Interface\IGuesser.cs" />
-    <Compile Include="Interface\INumberValidator.cs" />
-    <Compile Include="Imlementations\NumberValidator.cs" />
+    <Compile Include="Implementations\ConsoleReader.cs" />
+    <Compile Include="Implementations\ConsoleWriter.cs" />
+    <Compile Include="Implementations\GameGessRandomNumber.cs" />
+    <Compile Include="HWGameHelper.cs" />
+    <Compile Include="Interfaces\IReader.cs" />
+    <Compile Include="Interfaces\IWriter.cs" />
+    <Compile Include="Implementations\NumberGuesser.cs" />
+    <Compile Include="Interfaces\IGame.cs" />
+    <Compile Include="Implementations\GenerateRandomNumber.cs" />
+    <Compile Include="Interfaces\IGenerateRandomNumber.cs" />
+    <Compile Include="Interfaces\IGuesser.cs" />
+    <Compile Include="Interfaces\INumberValidator.cs" />
+    <Compile Include="Implementations\NumberValidator.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

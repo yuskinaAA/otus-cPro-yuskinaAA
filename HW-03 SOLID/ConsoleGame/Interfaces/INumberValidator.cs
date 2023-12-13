@@ -1,15 +1,14 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Policy;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace HWGame
+namespace HWGame.Interfaces
 {
-    public interface IGame
+    public interface INumberValidator
     {
-
-        void StartGame();
-
+        bool IsValidNumber(string str);
     }
 }

@@ -4,10 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace HWGame
+namespace HWGame.Interfaces
 {
-    public interface IGenerateRandomNumber
+    public interface IGame
     {
-        int Generate(int minNum, int maxNum);
+
+        void StartGame(int CountTry, int MinNum, int MaxNum);
+
     }
 }

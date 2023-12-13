@@ -1,0 +1,15 @@
+C:\Users\Geka\Downloads\otus-cPro-yuskinaAA-main\HW-03 SOLID\ConsoleGame\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Geka\Downloads\otus-cPro-yuskinaAA-main\HW-03 SOLID\ConsoleGame\bin\Debug\ConsoleApp1.exe
+C:\Users\Geka\Downloads\otus-cPro-yuskinaAA-main\HW-03 SOLID\ConsoleGame\bin\Debug\ConsoleApp1.pdb
+C:\Users\Geka\Downloads\otus-cPro-yuskinaAA-main\HW-03 SOLID\ConsoleGame\obj\Debug\ConsoleGame.csproj.AssemblyReference.cache
+C:\Users\Geka\Downloads\otus-cPro-yuskinaAA-main\HW-03 SOLID\ConsoleGame\obj\Debug\ConsoleGame.csproj.CoreCompileInputs.cache
+C:\Users\Geka\Downloads\otus-cPro-yuskinaAA-main\HW-03 SOLID\ConsoleGame\obj\Debug\ConsoleApp1.exe
+C:\Users\Geka\Downloads\otus-cPro-yuskinaAA-main\HW-03 SOLID\ConsoleGame\obj\Debug\ConsoleApp1.pdb
+Z:\repo\ConsoleGame\bin\Debug\ConsoleApp1.exe.config
+Z:\repo\ConsoleGame\bin\Debug\ConsoleApp1.exe
+Z:\repo\ConsoleGame\bin\Debug\ConsoleApp1.pdb
+Z:\repo\ConsoleGame\obj\Debug\ConsoleGame.csproj.AssemblyReference.cache
+Z:\repo\ConsoleGame\obj\Debug\ConsoleGame.csproj.SuggestedBindingRedirects.cache
+Z:\repo\ConsoleGame\obj\Debug\ConsoleGame.csproj.CoreCompileInputs.cache
+Z:\repo\ConsoleGame\obj\Debug\ConsoleApp1.exe
+Z:\repo\ConsoleGame\obj\Debug\ConsoleApp1.pdb

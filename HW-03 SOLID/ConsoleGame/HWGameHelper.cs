@@ -4,10 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp1.Interface
+namespace HWGame.Interfaces
 {
-    public interface IGuesser
+    public enum HWGameResult
     {
-        bool ProcessGuess(int guess, int targetNumber);
+        Equal,
+        Less,
+        More,
     }
 }
