@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Otus.HW.DelegatesEvents", "Otus.HW.DelegatesEvents.csproj", "{182E3789-A1E8-4211-AD91-79D88712E896}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{182E3789-A1E8-4211-AD91-79D88712E896}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{182E3789-A1E8-4211-AD91-79D88712E896}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{182E3789-A1E8-4211-AD91-79D88712E896}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{182E3789-A1E8-4211-AD91-79D88712E896}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31EE0552-3CF9-486A-BA0D-2731F0AB74F0}
+	EndGlobalSection
+EndGlobal

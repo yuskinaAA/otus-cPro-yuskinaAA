@@ -1,0 +1,7 @@
+C:\Users\Sofi\source\repos\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+C:\Users\Sofi\source\repos\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+C:\Users\Sofi\source\repos\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
+C:\Users\Sofi\source\repos\ConsoleApp5\obj\Debug\Otus.HW.DelegatesEvents.csproj.AssemblyReference.cache
+C:\Users\Sofi\source\repos\ConsoleApp5\obj\Debug\Otus.HW.DelegatesEvents.csproj.CoreCompileInputs.cache
+C:\Users\Sofi\source\repos\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+C:\Users\Sofi\source\repos\ConsoleApp5\obj\Debug\ConsoleApp5.pdb
