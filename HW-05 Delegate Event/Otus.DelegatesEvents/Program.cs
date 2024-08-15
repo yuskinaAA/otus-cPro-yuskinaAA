@@ -49,6 +49,7 @@ namespace Otus.HW.DelegatesEvents
         {
             Console.WriteLine($"Found the file: {e.FileName}");
             var fs = sender as FileSearchService;
+            if (fs is null) return;
             //Выполняется какое-то условие
             if (e.FileName.Contains(".config"))
             {
