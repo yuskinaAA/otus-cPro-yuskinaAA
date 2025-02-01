@@ -50,14 +50,9 @@ namespace HW_06_Parallel
         /// <returns></returns>
         public static async Task<List<int>> ReadFiles(string[] files, Func<string, Task<int>> doAction)
         {
-            var tasks = new List<Task<int>>();
-            foreach (var file in files)
-            {
-                tasks.Add(doAction(file));
-            }
-            int[] taskResults = await Task.WhenAll(tasks);
+            var results = await Task.WhenAll(files.Select(doAction));
 
-            return taskResults.ToList();
+            return results.ToList();
         }
 
         /// <summary>
@@ -91,16 +86,9 @@ namespace HW_06_Parallel
                 return new List<int>();
             }
             var files = Directory.GetFiles(path);
-            var tasks = new List<Task<int>>();
+            var results = await Task.WhenAll(files.Select(doAction));
 
-            foreach (var file in files)
-            {
-                tasks.Add(doAction(file));
-            }
-
-            var allTasks = await Task.WhenAll(tasks);
-
-            return allTasks.ToList();
+            return results.ToList();
         }
     }
 }
