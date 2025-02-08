@@ -24,7 +24,7 @@ namespace HW07___Multithread
             Console.WriteLine();
             PrintInfoSystem();
             var sw = new Stopwatch();
-            long[] lengthsOfArray = [100_000, 1_000_000, 10_000_000, 100000000,15,100];
+            long[] lengthsOfArray = [100_000, 1_000_000, 10_000_000, 100_000_000];
             var cntThread = 5;
             var widthTable = 115;
             Console.WriteLine("-".PadLeft(widthTable, '-'));
