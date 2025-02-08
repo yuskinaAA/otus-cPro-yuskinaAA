@@ -24,7 +24,7 @@ namespace HW07___Multithread
             Console.WriteLine();
             PrintInfoSystem();
             var sw = new Stopwatch();
-            long[] lengthsOfArray = [100_000, 1_000_000, 10_000_000, 100_000_000];
+            long[] lengthsOfArray = [100_000, 1_000_000, 10_000_000, 100000000,15,100];
             var cntThread = 5;
             var widthTable = 115;
             Console.WriteLine("-".PadLeft(widthTable, '-'));
@@ -38,7 +38,7 @@ namespace HW07___Multithread
                 FullArrayWithRandom(ref ints);
                 //1.1.вычисление суммы элементов массива интов.Обычное
                 sw.Restart();
-                var seqCalcSum = RegularCalcSumArrayElements(ints);
+                long seqCalcSum = RegularCalcSumArrayElements(ints);
                 sw.Stop();
                 var seqCalcTime = sw.ElapsedMilliseconds;
 
@@ -110,10 +110,10 @@ namespace HW07___Multithread
         /// <returns></returns>
         public static long RegularCalcSumArrayElements(int[] intsArray)
         {
-            var sum = 0;
-            for (int i = 0; i < intsArray.Length; i++) 
+            long sum = 0;
+            for (long i = 0; i < intsArray.Length; i++) 
             {
-                sum += intsArray[i];
+                sum += (long)intsArray[i];
             }
 
             return sum;
